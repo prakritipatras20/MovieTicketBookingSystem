@@ -145,7 +145,7 @@ The system provides a **cinema ticket booking counter** through a simple menu-dr
 
 ## Sequence Diagram
 
-![Sequence Diagrams](docs/Sequence%20Diagrams.png)
+![Sequence Diagrams](docs/Sequence%20Diagram.png)
 
 ---
 
